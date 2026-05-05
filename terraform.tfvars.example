@@ -1,0 +1,4 @@
+xray_uuid        = "00000000-0000-0000-0000-000000000000"
+xray_private_key = "REPLACE_WITH_REALITY_PRIVATE_KEY"
+xray_short_id    = "0123456789abcdef"
+dest_domain      = "your-decoy-host.example.com"
